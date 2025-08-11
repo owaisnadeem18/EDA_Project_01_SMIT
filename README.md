@@ -21,7 +21,7 @@ The dataset used in this project includes:
 - Team performances
 - Venue information
 
-**Note:** The dataset was sourced from [reliable cricket data sources](https://www.espncricinfo.com/) and preprocessed before analysis.
+**Note:** The dataset was sourced from [kaggle]([https://www.espncricinfo.com/](https://www.kaggle.com/datasets/sidmalang/all-cricket-world-cup-match-result)) and preprocessed before analysis.
 
 ---
 
