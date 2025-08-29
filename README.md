@@ -16,7 +16,7 @@ Through this analysis, we aim to answer questions like:
 ## 📂 Dataset
 
 The dataset is sourced from Kaggle:  
-👉 [ICC Men's T20 Cricket World Cup 2024 Dataset](https://www.kaggle.com/datasets/sidmalang/all-cricket-world-cup-match-result)
+👉 [ICC Men's Cricket World Cups Dataset - 1975 to 2019](https://www.kaggle.com/datasets/sidmalang/all-cricket-world-cup-match-result)
 
 It contains detailed match-level information including teams, players, runs, wickets, stadiums, and match outcomes.
 
