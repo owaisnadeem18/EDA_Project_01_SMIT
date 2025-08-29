@@ -1,4 +1,4 @@
-# 🏏 EDA on ICC Men's T20 Cricket World Cup 2024
+# 🏏 EDA on ICC Men's Cricket World Cup 2019
 
 > "In-depth Exploratory Data Analysis of the ICC Men's T20 World Cup 2024 — uncovering insights from matches, players, and teams through data."
 
@@ -24,14 +24,14 @@ It contains detailed match-level information including teams, players, runs, wic
 
 1. ✅ Total number of matches played in the dataset.
 2. ✅ Which team has the **highest win percentage**?
-3. ✅ **Top 5 batsmen** by total runs scored.
-4. ✅ **Top 5 bowlers** by total wickets taken.
-5. ✅ **Average runs scored per match**.
+3. ❌ **Top 5 batsmen** by total runs scored.
+4. ❌ **Top 5 bowlers** by total wickets taken. → N/A (Not Available in Dataset)
+5. ❌ **Average runs scored per match**. → N/A (Not Available in Dataset)
 6. ✅ Which **stadium hosted the most matches**?
 7. ✅ How many matches ended **without a result**?
-8. ✅ **Highest team total** in the dataset.
-9. ✅ Total **boundaries (4s and 6s)** hit in the tournament.
-10. ✅ **Visualization** of runs scored trend by match number.
+8. ❌ **Highest team total** in the dataset. → N/A (Not Available in Dataset)
+9. ❌ Total **boundaries (4s and 6s)** hit in the tournament. → N/A (Not Available in Dataset)
+10. ❌ **Visualization** of runs scored trend by match number. → N/A (Not Available in Dataset)
 
 ## 🛠️ Tools & Libraries Used
 
